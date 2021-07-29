@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/reacttodolive/static/css/main.4a8b001a.chunk.css",
-    "main.js": "/reacttodolive/static/js/main.7804870f.chunk.js",
-    "main.js.map": "/reacttodolive/static/js/main.7804870f.chunk.js.map",
-    "runtime-main.js": "/reacttodolive/static/js/runtime-main.af978883.js",
-    "runtime-main.js.map": "/reacttodolive/static/js/runtime-main.af978883.js.map",
+    "main.css": "/reacttodolive/static/css/main.1889098a.chunk.css",
+    "main.js": "/reacttodolive/static/js/main.3654fac5.chunk.js",
+    "main.js.map": "/reacttodolive/static/js/main.3654fac5.chunk.js.map",
+    "runtime-main.js": "/reacttodolive/static/js/runtime-main.3bf268f3.js",
+    "runtime-main.js.map": "/reacttodolive/static/js/runtime-main.3bf268f3.js.map",
     "static/css/2.4be38407.chunk.css": "/reacttodolive/static/css/2.4be38407.chunk.css",
-    "static/js/2.64ee7972.chunk.js": "/reacttodolive/static/js/2.64ee7972.chunk.js",
-    "static/js/2.64ee7972.chunk.js.map": "/reacttodolive/static/js/2.64ee7972.chunk.js.map",
-    "static/js/3.23a29889.chunk.js": "/reacttodolive/static/js/3.23a29889.chunk.js",
-    "static/js/3.23a29889.chunk.js.map": "/reacttodolive/static/js/3.23a29889.chunk.js.map",
+    "static/js/2.ee1b943c.chunk.js": "/reacttodolive/static/js/2.ee1b943c.chunk.js",
+    "static/js/2.ee1b943c.chunk.js.map": "/reacttodolive/static/js/2.ee1b943c.chunk.js.map",
+    "static/js/3.98094ef2.chunk.js": "/reacttodolive/static/js/3.98094ef2.chunk.js",
+    "static/js/3.98094ef2.chunk.js.map": "/reacttodolive/static/js/3.98094ef2.chunk.js.map",
     "index.html": "/reacttodolive/index.html",
     "static/css/2.4be38407.chunk.css.map": "/reacttodolive/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.4a8b001a.chunk.css.map": "/reacttodolive/static/css/main.4a8b001a.chunk.css.map",
-    "static/js/2.64ee7972.chunk.js.LICENSE.txt": "/reacttodolive/static/js/2.64ee7972.chunk.js.LICENSE.txt",
+    "static/css/main.1889098a.chunk.css.map": "/reacttodolive/static/css/main.1889098a.chunk.css.map",
+    "static/js/2.ee1b943c.chunk.js.LICENSE.txt": "/reacttodolive/static/js/2.ee1b943c.chunk.js.LICENSE.txt",
     "static/media/todo.856f5b96.png": "/reacttodolive/static/media/todo.856f5b96.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.af978883.js",
+    "static/js/runtime-main.3bf268f3.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.64ee7972.chunk.js",
-    "static/css/main.4a8b001a.chunk.css",
-    "static/js/main.7804870f.chunk.js"
+    "static/js/2.ee1b943c.chunk.js",
+    "static/css/main.1889098a.chunk.css",
+    "static/js/main.3654fac5.chunk.js"
   ]
 }
