@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reacttodolive/static/css/main.1889098a.chunk.css",
+    "main.css": "/reacttodolive/static/css/main.198621ba.chunk.css",
     "main.js": "/reacttodolive/static/js/main.3654fac5.chunk.js",
     "main.js.map": "/reacttodolive/static/js/main.3654fac5.chunk.js.map",
     "runtime-main.js": "/reacttodolive/static/js/runtime-main.3bf268f3.js",
@@ -12,7 +12,7 @@
     "static/js/3.98094ef2.chunk.js.map": "/reacttodolive/static/js/3.98094ef2.chunk.js.map",
     "index.html": "/reacttodolive/index.html",
     "static/css/2.4be38407.chunk.css.map": "/reacttodolive/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.1889098a.chunk.css.map": "/reacttodolive/static/css/main.1889098a.chunk.css.map",
+    "static/css/main.198621ba.chunk.css.map": "/reacttodolive/static/css/main.198621ba.chunk.css.map",
     "static/js/2.ee1b943c.chunk.js.LICENSE.txt": "/reacttodolive/static/js/2.ee1b943c.chunk.js.LICENSE.txt",
     "static/media/todo.856f5b96.png": "/reacttodolive/static/media/todo.856f5b96.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.3bf268f3.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.ee1b943c.chunk.js",
-    "static/css/main.1889098a.chunk.css",
+    "static/css/main.198621ba.chunk.css",
     "static/js/main.3654fac5.chunk.js"
   ]
 }
