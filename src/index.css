@@ -1,13 +1,79 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+caption {
+  width: 100%;
+  display: inline-block;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body{
+  background-color: #040822 !important;
+  color: white !important;
+}
+
+figure {
+  display: grid;
+  justify-items: center;
+}
+
+
+caption {
+  font-size: 32px;
+  margin-top: 20px;
+  display: grid;
+  justify-items: center;
+}
+
+.child_div{
+  width: 400px;
+  margin: auto;
+}
+
+.child_div input{
+  width: 100%;
+  padding: 8px 12px;
+  font-size: 22px;
+  border-radius: 8px;
+}
+
+.show_items{
+  margin-top: 30px;
+}
+
+.each_item{
+  width: 100%;
+  padding: 8px 12px;
+  margin-top: 10px;
+  background-color: blue;
+  color: white;
+  border-radius: 8px;
+  font-size: 22px;
+}
+
+button{
+  margin: auto;
+}
+
+.input_item{
+  display: flex;
+}
+
+i.fas {
+  margin-left: -35px;
+  color: green;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+i.fas.fa-trash-alt {
+  float: right;
+  margin-top: 5px;
+  color: black;
+}
+
+.each_item:hover{
+  background-color: white;
+  color: black;
+}
+
+i.fas:hover{
+  color: red;
+  z-index: 999999;
 }
