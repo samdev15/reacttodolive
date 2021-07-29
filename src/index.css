@@ -21,6 +21,10 @@ caption {
   justify-items: center;
 }
 
+.main_div {
+  margin-top: 80px;
+}
+
 .child_div{
   width: 400px;
   margin: auto;
@@ -86,4 +90,5 @@ i.fa-trash-alt:hover{
 
 .btn{
   margin: auto;
+  display: block;
 }
