@@ -55,25 +55,35 @@ button{
   display: flex;
 }
 
-i.fas {
-  margin-left: -35px;
+.btn-add {
+  margin-left: -34px;
   color: green;
-  margin-top: 20px;
+  margin-top: 18px;
   cursor: pointer;
 }
 
-i.fas.fa-trash-alt {
+i.fas.fa-edit {
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+i.fas.fa-edit:hover {
+  color: green;
+}
+
+.fa-icon{
+  color: white;
   float: right;
-  margin-top: 5px;
-  color: black;
+  display: flex;
+  margin-top: 4px;
 }
 
-.each_item:hover{
-  background-color: white;
-  color: black;
-}
 
-i.fas:hover{
+i.fa-trash-alt:hover{
   color: red;
   z-index: 999999;
+}
+
+.btn{
+  margin: auto;
 }
